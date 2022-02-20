@@ -10,4 +10,5 @@ const numbers = [20, 56, 24, 75, 37];
 
 const numbers2 = [...numbers, 88];
 numbers.push(99);
+console.log(numbers);
 console.log(numbers2);
